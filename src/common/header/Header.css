@@ -1,0 +1,42 @@
+.header{
+    background-color: purple;
+    height: 70px;   /** it should be 70px **/
+    width: 100%;
+    padding: 11px;
+}
+
+.logo{
+    background-color: #ff7f7f;
+    height: 35px;
+    float: left;
+}
+
+.appName{
+    color: white;
+    font-weight: 600;
+    padding-left: 17px;
+    font-size: 25px;
+    vertical-align: top;
+}
+
+.headerButtons{
+    float: right;
+    margin-right: 20px;
+}
+
+.modalHeader{
+    background-color: purple;
+    font-size: 25px;
+    color: white;
+    padding: 20px;
+}
+
+.cardStyle{
+    
+    text-align: center;
+}
+
+.red
+{
+    color: red;
+}
